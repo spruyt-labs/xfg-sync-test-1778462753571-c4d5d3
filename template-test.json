@@ -1,0 +1,9 @@
+{
+  "repoName": "xfg-sync-test-1778462753571-c4d5d3",
+  "repoOwner": "spruyt-labs",
+  "repoFullName": "spruyt-labs/xfg-sync-test-1778462753571-c4d5d3",
+  "platform": "github",
+  "custom": "custom-value",
+  "escaped": "${xfg:repo.name}",
+  "static": "not-interpolated"
+}
