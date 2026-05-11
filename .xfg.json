@@ -3,7 +3,7 @@
   "configs": {
     "integration-test-delete-orphaned-github": {
       "files": [
-        "orphan-test.json"
+        "remaining-file.json"
       ]
     }
   }
